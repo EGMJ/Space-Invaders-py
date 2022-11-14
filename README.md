@@ -8,18 +8,18 @@
 
 <div align="center" >
 
-  ### Video do projeto
-
-[![Video of project](./docs/space-invaders-mini.png)](./docs/space-invaders.mp4 "Link Title")
+  ### Imagem do projeto
 
 </div>
+<p align="center"><img width="max-width" src="./docs/space-invaders-mini.png" alt=""></p>
+
 
 
 ---
 
 ### Sobre o projeto :pencil:
 
-É um **Jogo** antigo que marcou a história de muitos. Space Invaders teve o seu inicio no ano de XXXX pelos criadores XX e XX para rodarem originalmente em XX. Decidi recriar o jogo em `Python` utilizando a biblioteca `Pygame` para me auxiliar a criar mais rápido.
+É um **Jogo** antigo que marcou a história de muitos. Space Invaders teve o seu inicio no ano de 1978 criado por **Tomohiro Nishikado** para os **Arcades**. Decidi recriar o jogo em `Python` utilizando a biblioteca `Pygame` para me auxiliar a criar mais rápido.
 
 ---
 
